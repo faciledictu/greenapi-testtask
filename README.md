@@ -34,12 +34,6 @@ Build the app
 make build
 ```
 
-Run builded app
-
-```bash
-make start
-```
-
 ## Built with
 
 [![React][React-badge]][React-url]
