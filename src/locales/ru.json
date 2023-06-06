@@ -1,0 +1,47 @@
+{
+  "translation": {
+    "language": "Русский",
+    "appName": "Клиент GreenAPI",
+    "errors": {
+      "noConnection": "Ошибка сети",
+      "authFailed": "Неверный ID Instance или API Token",
+      "notAuthorized": "Аккаунт не авторизован",
+      "blocked": "Аккаунт заблокирован",
+      "authError": "Ошибка входа. Попробуйте позже",
+      "overTheLimit": "Исчерпан лимит отправки сообщений",
+      "notFound": {
+        "title": "Страница не найдена",
+        "description": "Здесь ничего нет",
+        "link": "Перейти к чату"
+      }
+    },
+    "logIn": {
+      "header": "Вход",
+      "logInButton": "Войти",
+      "idInstance": "Instance ID",
+      "apiTokenInstance": "API Token",
+      "getInstanceHint": "Чтобы получить ID Instance и API Token, посетите"
+    },
+    "navBar": {
+      "logOut": "Выйти"
+    },
+    "chat": {
+      "chats": "Диалоги",
+      "newChat": "Начать новый диалог",
+      "newMessage": "Новое сообщение",
+      "unsupportedMessage": {
+        "title": "Неподдерживаемое сообщение",
+        "description": "Невозможно отобразить содержимое"
+      },
+      "writeMessage": "Напишите сообщение...",
+      "send": "Отправить"
+    },
+    "modals": {
+      "newChatTitle": "Начать новый диалог",
+      "phone": "Номер телефона",
+      "enterPhone": "Введите номер телефона",
+      "start": "Начать",
+      "cancel": "Отмена"
+    }
+  }
+}

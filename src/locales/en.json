@@ -1,0 +1,47 @@
+{
+  "translation": {
+    "language": "English",
+    "appName": "GreenAPI Client",
+    "errors": {
+      "noConnection": "Connection error. Try again later",
+      "authFailed": "Wrong ID Instance or API Token",
+      "notAuthorized": "Account is not authorized",
+      "blocked": "Account is banned",
+      "authError": "Authorization error. Try again later",
+      "overTheLimit": "Message limit exceeded",
+      "notFound": {
+        "title": "Page not found",
+        "description": "There's nothing here",
+        "link": "Go to chat"
+      }
+    },
+    "logIn": {
+      "header": "Log in",
+      "logInButton": "Log in",
+      "idInstance": "Instance ID",
+      "apiTokenInstance": "API Token",
+      "getInstanceHint": "To get ID Instance and API Token please visit"
+    },
+    "navBar": {
+      "logOut": "Log out"
+    },
+    "chat": {
+      "chats": "Chats",
+      "newChat": "Start new chat",
+      "newMessage": "New message",
+      "unsupportedMessage": {
+        "title": "Unsupported message",
+        "description": "Content cannot be dispayed"
+      },
+      "writeMessage": "Write a message...",
+      "send": "Send"
+    },
+    "modals": {
+      "newChatTitle": "Start new chat",
+      "phone": "Phone number",
+      "enterPhone": "Enter phone number",
+      "start": "Start",
+      "cancel": "Cancel"
+    }
+  }
+}
